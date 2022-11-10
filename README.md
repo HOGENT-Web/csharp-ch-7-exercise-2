@@ -38,7 +38,7 @@ The goal of this course is to create an e-commerce website with some CMS for adm
     - Add them to their cart
     - Place an order
 
-In this exercise we'll be focussing on setting-up a descent architecture and the back-end side of things. In the next chapter we'll implement the **U**ser **I**nterface using Blazor Web Assembly(WASM).
+In this exercise we'll be focussing on setting-up a decent architecture and the back-end side of things. In the next chapter we'll implement the **U**ser **I**nterface using Blazor Web Assembly(WASM).
 
 ## Solution Structure
 - We've used `dotnet blazorwasm --hosted -o BogusStore` to generate the solution and added a few class libraries.
