@@ -86,6 +86,12 @@ In this exercise we'll be focussing on setting-up a decent architecture and the 
 - BogusStore.Shared
     - [FluentValidation](https://github.com/FluentValidation/FluentValidation)
 
+## Moving to Sqlite (optional)
+If you want to move to a Sqlite database instead of in-memory:
+
+https://github.com/HOGENT-Web/csharp-ch-7-exercise-2/assets/10981553/9def54e5-d2bd-4584-b5aa-8ec76d9f9773
+
+
 ## Exercise
 Make a directory called `chapter7`
 ```
